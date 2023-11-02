@@ -1,0 +1,10 @@
+com\gisoft\gildedrose\GildedRose.class
+com\gisoft\gildedrose\classes\AgedBrieItemUpdateStrategy.class
+com\gisoft\gildedrose\classes\ConjuredItemUpdateStrategy.class
+com\gisoft\gildedrose\classes\Item.class
+com\gisoft\gildedrose\classes\BackstagePassesItemUpdateStrategy.class
+com\gisoft\gildedrose\classes\ItemUpdateStrategy.class
+com\gisoft\gildedrose\classes\SulfurasItemUpdateStrategy.class
+com\gisoft\gildedrose\classes\RegularItemUpdateStrategy.class
+com\gisoft\gildedrose\classes\GildedRose.class
+com\gisoft\gildedrose\classes\NoChangeItemUpdateStrategy.class
